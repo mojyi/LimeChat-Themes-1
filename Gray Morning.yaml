@@ -6,8 +6,8 @@ log-view:
   scroller-highlight-color: '#ed8787'
 input-text:
   font-family: 'Lucida Grande'
-  font-size: 12.0
-  background-color: '#292929'
+  font-size: 12px
+  background-color: '#202020'
   color: '#fff'
   selected:
     background-color: '#666'
@@ -15,7 +15,7 @@ member-list:
   font-family: 'Lucida Grande'
   font-size: 12px
   color: '#fff'
-  background-color: '#292929'
+  background-color: '#202020'
   operator:
     color: '#fff'
   selected:
@@ -28,8 +28,8 @@ member-list:
       bottom-color: '#666'
 server-tree:
   font-family: 'Lucida Grande'
-  font-size: 12.0
-  background-color: '#292929'
+  font-size: 12px
+  background-color: '#202020'
   highlight:
     color: '#ed8787'
   newtalk:
