@@ -37,7 +37,7 @@ a { color: #87c2ed; }
 .url { word-break: break-all; }
 .address { text-decoration: underline; word-break: break-all; }
 .highlight { color: #ed8787; font-weight: normal; }
-.time { color: #999; }
+.time { color: #666; }
 .place { color: #87c2ed; }
 
 /* nickname for text messages */
@@ -61,27 +61,27 @@ a { color: #87c2ed; }
 .sender[type=normal][colornumber='15'] {}
 
 /* message body */
-.message[type=system] { color: #999; }
+.message[type=system] { color: #666; }
 .message[type=error] { color: #ed8787; font-weight: bold; }
-.message[type=reply] { color: #999; }
+.message[type=reply] { color: #666; }
 .message[type=error_reply] { color: #ed8787; }
 .message[type=dcc_send_send] { color: #87ed87; }
 .message[type=dcc_send_receive] { color: #87ed87; }
 .message[type=privmsg] {}
-.message[type=notice] { color: #999; }
+.message[type=notice] { color: #666; }
 .message[type=action] { color: #fff; }
-.message[type=join] { color: #999; }
-.message[type=part] { color: #999; }
-.message[type=kick] { color: #999; }
-.message[type=quit] { color: #999; }
-.message[type=kill] { color: #999; }
-.message[type=nick] { color: #999; }
-.message[type=mode] { color: #999; }
-.message[type=topic] { color: #999; }
+.message[type=join] { color: #666; }
+.message[type=part] { color: #666; }
+.message[type=kick] { color: #666; }
+.message[type=quit] { color: #666; }
+.message[type=kill] { color: #666; }
+.message[type=nick] { color: #666; }
+.message[type=mode] { color: #666; }
+.message[type=topic] { color: #666; }
 .message[type=invite] { color: #87ed87; }
-.message[type=wallops] { color: #999; }
-.message[type=debug_send] { color: #999; }
-.message[type=debug_receive] { color: #999; }
+.message[type=wallops] { color: #666; }
+.message[type=debug_send] { color: #666; }
+.message[type=debug_receive] { color: #666; }
 
 /* mIRC color effects */
 .effect[color-number='0'] {}

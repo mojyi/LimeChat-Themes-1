@@ -10,7 +10,7 @@ input-text:
   background-color: '#202020'
   color: '#fff'
   selected:
-    background-color: '#666'
+    background-color: '#333'
 member-list:
   font-family: 'Lucida Grande'
   font-size: 12px
@@ -22,10 +22,10 @@ member-list:
     color: '#fff'
     background:
       # gradient
-      top-line-color: '#666'
-      bottom-line-color: '#666'
-      top-color: '#666'
-      bottom-color: '#666'
+      top-line-color: '#333'
+      bottom-line-color: '#333'
+      top-color: '#333'
+      bottom-color: '#333'
 server-tree:
   font-family: 'Lucida Grande'
   font-size: 12px
@@ -40,15 +40,15 @@ server-tree:
     active:
       color: '#fff'
     inactive:
-      color: '#999'
+      color: '#666'
   selected:
     active:
       color: '#fff'
     inactive:
-      color: '#999'
+      color: '#666'
     background:
       # gradient
-      top-line-color: '#666'
-      bottom-line-color: '#666'
-      top-color: '#666'
-      bottom-color: '#666'
+      top-line-color: '#333'
+      bottom-line-color: '#333'
+      top-color: '#333'
+      bottom-color: '#333'
