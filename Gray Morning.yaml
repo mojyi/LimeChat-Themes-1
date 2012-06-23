@@ -1,5 +1,6 @@
-# All colors must be in the form of '#rrggbb' or '#rgb'.
-# You cannot use color names.
+# Created by Matt Gifford
+# http://www.matthewgifford.com/
+# https://github.com/mattg/LimeChat-Themes
 
 log-view:
   nickname-format: '(%n) '
